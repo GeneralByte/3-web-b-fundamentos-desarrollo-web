@@ -1,0 +1,67 @@
+body{
+    background-color: #1d1d1d;
+    color: whitesmoke;
+}
+
+.titulo{
+    font-family: "Pacifico", cursive;
+    font-size: 100;
+    text-align: center;
+}
+
+#awa{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #373737;
+    text-align: center;
+}
+
+#Boton{
+    text-align: center;
+}
+
+#Boton button{
+    padding: 20px 50px;
+    border-radius: 25px 0 15px 0;
+}
+
+#Portada{
+    text-align: center;
+}
+
+#Portada img{
+     border: 5px solid slategray;
+        border-style:dotted;
+    border-radius: 15px 0 0 0;
+}
+
+
+.UCard{
+    background-color: #373737;
+    width: 300px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+#loc{
+    color: #E1062C;
+}
+
+.BLink{
+    display: block;
+    background:  #571909;
+    margin: 10px;
+    padding: 10px 0;
+    border-radius: 15px;
+}
+
+a{
+    color: #b12828;
+}
+a:active{
+    color: #00D1FF;
+}
+a:hover{
+    text-shadow: 0 0 6px #664654,
+                0 0 12px #E1062C;
+}
